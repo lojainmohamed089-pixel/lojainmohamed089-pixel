@@ -41,9 +41,9 @@ I am a Computer Science student and an aspiring Software Developer 💻. I enjoy
 
 <a href="https://github.com/YOUR_USERNAME">
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=lojainmohamed089-pixel&show_icons=true&theme=tokyonight)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lojainmohamed089-pixel&layout=compact&theme=tokyonight)
 
 </a>
 
